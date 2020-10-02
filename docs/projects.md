@@ -10,4 +10,4 @@ a screenshot or GIF to show it.
 
 
 
-![Add alternate text for image](./assets/Award_2019-02-01.png)
+![Add alternate text for image](./assets/Award_2019-02-01.pdf)
